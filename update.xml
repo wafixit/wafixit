@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.1.0</version>
-  <url>https://github.com/wafixit/wafixit/blob/main/s.exe</url>
-  <mandatory>false</mandatory>
-  <changelog>https://yourdomain.com/changelog.html</changelog>
+    <version>2.0.0.0</version>
+    <url>https://your-website.com/downloads/MyAppSetup_2.0.0.0.msi</url>
+    <changelog>https://your-website.com/changelogs/2.0.0.0.rtf</changelog>
+    <mandatory>false</mandatory>
 </item>
